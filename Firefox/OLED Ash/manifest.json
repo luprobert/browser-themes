@@ -1,0 +1,69 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "OLED Ash",
+  "description": "A pitch black dark theme with sleek ash gray accents.",
+  "developer": {
+    "name": "luprobert",
+    "url": "https://github.com/luprobert/browser-themes"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "oled-ash-theme@luprobert"
+    }
+  },
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(0, 0, 0)",
+      "toolbar_text": "rgb(214, 214, 214)",
+      "frame": "rgb(0, 0, 0)",
+      "tab_background_text": "rgb(214, 214, 214)",
+      "toolbar_field": "rgb(25, 25, 25)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(53, 53, 53)",
+      "popup": "rgb(0, 0, 0)",
+      "popup_text": "rgb(214, 214, 214)",
+      "button_background_active": "rgb(53, 53, 53)",
+      "button_background_hover": "rgb(53, 53, 53)",
+      "icons_attention": "rgb(71, 206, 243)",
+      "icons": "rgb(214, 214, 214)",
+      "ntp_background": "rgb(0, 0, 0)",
+      "ntp_card_background": "rgb(25, 25, 25)",
+      "ntp_text": "rgb(255, 255, 255)",
+      "popup_border": "rgb(85, 85, 85)",
+      "popup_highlight_text": "rgb(255, 255, 255)",
+      "popup_highlight": "rgb(53, 53, 53)",
+      "sidebar_border": "rgb(85, 85, 85)",
+      "sidebar_highlight_text": "rgb(255, 255, 255)",
+      "sidebar_highlight": "rgb(53, 53, 53)",
+      "sidebar_text": "rgb(214, 214, 214)",
+      "sidebar": "rgb(0, 0, 0)",
+      "tab_background_separator": "rgb(0, 0, 0)",
+      "tab_selected": "rgb(25, 25, 25)",
+      "tab_text": "rgb(255, 255, 255)",
+      "toolbar_bottom_separator": "rgb(53, 53, 53)",
+      "toolbar_field_border_focus": "rgb(53, 53, 53)",
+      "toolbar_field_border": "rgb(53, 53, 53)",
+      "toolbar_field_focus": "rgb(25, 25, 25)",
+      "toolbar_field_highlight_text": "rgb(255, 255, 255)",
+      "toolbar_field_highlight": "rgb(85, 85, 85)",
+      "toolbar_field_text_focus": "rgb(255, 255, 255)",
+      "toolbar_top_separator": "rgb(0, 0, 0)",
+      "toolbar_vertical_separator": "rgb(85, 85, 85)",
+      "tab_loading": "rgb(53, 53, 53)"
+    }
+  }
+}
