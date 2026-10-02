@@ -1,0 +1,11 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Developer & Editor tools
+.vscode/
+.idea/
+
+# Theme build artifacts
+*.xpi
+*.zip
